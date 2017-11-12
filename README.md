@@ -1,6 +1,5 @@
 # EBooks-For-Game-Development
 
-
 1. [Rapid Game Development Using Cocos2d-JS](http://file.allitebooks.com/20161220/Rapid%20Game%20Development%20Using%20Cocos2d-JS.pdf)
 2. [Building a 2D Game Physics Engine: Using HTML5 and JavaScript](http://file.allitebooks.com/20170114/Building%20a%202D%20Game%20Physics%20Engine.pdf)
 3. [Unity Multiplayer Games](http://file.allitebooks.com/20160306/Unity%20Multiplayer%20Games.pdf)
@@ -22,3 +21,6 @@
 19. [Multiplayer Game Development with HTML5](http://file.allitebooks.com/20150811/Multiplayer%20Game%20Development%20with%20HTML5.pdf)
 20. [Cocos2d-x Game Development Essentials](http://file.allitebooks.com/20150529/Cocos2d-x%20Game%20Development%20Essentials.pdf)
 21. [Building JavaScript Games](http://file.allitebooks.com/20150529/Building%20JavaScript%20Games.pdf)
+22. [精通Cocos2d-x游戏开发(基础卷)](https://e.jd.com/30293996.html)
+23. [精通Cocos2d-x游戏开发(进阶卷)](https://e.jd.com/30342612.html)
+
